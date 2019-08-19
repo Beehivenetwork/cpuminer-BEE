@@ -41,7 +41,7 @@ YESpower Algorithms
                           yespower      Cryply
                           yespowerr16   Yenten (YTN)
                           yespowerurx   Yespower (URX)
-                          yespowerlibt  Yespower (LIBT)
+                          yespowerlitb  Yespower (LITB)
                           cpupower      CPUchain (CPU)
 			      yespowerltncg Yespower (LTNCG)
 
