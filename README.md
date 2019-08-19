@@ -43,7 +43,7 @@ YESpower Algorithms
                           yespowerurx   Yespower (URX)
                           yespowerlibt  Yespower (LIBT)
                           cpupower      CPUchain (CPU)
-				yespowerltncg Yespower (LTNCG)
+			    yespowerltncg Yespower (LTNCG)
 
 
 project LightBIT...
