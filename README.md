@@ -31,7 +31,8 @@ MacOS, OSx and Android are not supported.
 3. Stratum pool. Some algos may work wallet mining using getwork or GBT. YMMV.
 
 
-[!(https://i.imgur.com/A1dwLWw.jpg)](https://twitter.com/BeeHiveNetworks)]
+[![#](https://i.imgur.com/A1dwLWw.jpg)](https://twitter.com/BeeHiveNetworks)]
+
 
 
 YESpower Algorithms
@@ -48,12 +49,12 @@ YESpower Algorithms
 project LightBIT...
 -------------------
 
-[![(https://i.imgur.com/3oH3PSj.png)(https://lightbit.xyz)]
+[![#](https://i.imgur.com/3oH3PSj.png)](https://lightbit.xyz)]
 
 Pools...
 --------
 
-[!(https://i.imgur.com/hfs67td.png)](http://hashpex.com/)]
+[![#](https://i.imgur.com/hfs67td.png)](http://hashpex.com/)]
 		
 Tricks...
 ---------
