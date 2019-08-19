@@ -114,7 +114,7 @@ Supported Algorithms
                           yespower      Cryply
                           yespowerr16   Yenten (YTN)
                           yespowerurx   Yespower (URX)
-                          yespowerlibt  Yespower (LIBT)
+                          yespowerlitb  Yespower (LITB)
                           cpupower      CPUchain (CPU)
 			  yespowerltncg Yespower (LTNCG)
                           zr5           Ziftr
@@ -123,6 +123,7 @@ Supported Algorithms
 ![](https://i.imgur.com/A1dwLWw.jpg)
 https://twitter.com/BeeHiveNetworks
 
+![](https://https://i.imgur.com/wKq9ym4.png)
 
 Tricks...
 ---------
