@@ -45,7 +45,7 @@ YESpower Algorithms
                           cpupower      CPUchain (CPU)
 			      yespowerltncg Yespower (LTNCG)
 
-[![#](https://i.imgur.com/wKq9ym4.png)]
+![#](https://i.imgur.com/wKq9ym4.png)
 
 project LightBIT...
 -------------------
