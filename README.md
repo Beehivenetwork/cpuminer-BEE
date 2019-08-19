@@ -48,7 +48,7 @@ YESpower Algorithms
 project LightBIT...
 -------------------
 
-[!(https://i.imgur.com/3oH3PSj.png)](https://lightbit.xyz)]
+[![(https://i.imgur.com/3oH3PSj.png)](https://lightbit.xyz)]
 
 Pools...
 --------
