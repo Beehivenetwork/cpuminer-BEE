@@ -55,7 +55,8 @@ project LightBIT...
 Pools...
 --------
 
-[![#](https://i.imgur.com/71pg2cu.jpg)](https://litb.skypool.co)[![#](https://i.imgur.com/hxgnbOu.png)](http://hashpex.com/)
+[![#](https://i.imgur.com/u3lpWEy.jpg)](https://litb.skypool.co)
+[![#](https://i.imgur.com/82XQ8UW.jpg)](http://hashpex.com/)[![#](https://imgur.com/a/v1JbE8N)](http://pool.customspeed.nl/)[![#](https://i.imgur.com/3eo4a7t.jpg)](http://www.cpu-pool.com)
 		
 Tricks...
 ---------
