@@ -58,8 +58,18 @@ Pools...
 [![#](https://i.imgur.com/u3lpWEy.jpg)](https://litb.skypool.co)
 [![#](https://i.imgur.com/hxgnbOu.png)](http://hashpex.com/)
 [![#](https://i.imgur.com/tdUZvxI.jpg)](http://www.cpu-pool.com)
-[![#](https://imgur.com/a/v1JbE8N.jpg)](http://pool.customspeed.nl/)
-		
+[![#](https://i.imgur.com/fiDUDjx.jpg)](http://pool.customspeed.nl/)
+
+fast install ubuntu 18...
+---------
+
+sudo apt-get update && sudo apt-get upgrade -y
+sudo apt-get update && sudo apt-get install build-essential libssl-dev libcurl4-openssl-dev libjansson-dev libgmp-dev automake zlib1g-dev git screen htop -y 
+
+
+
+
+
 Tricks...
 ---------
 
