@@ -43,7 +43,7 @@ YESpower Algorithms
                           yespowerurx   Yespower (URX)
                           yespowerlitb  Yespower (LITB)
                           cpupower      CPUchain (CPU)
-			      yespowerltncg Yespower (LTNCG)
+
 
 ![#](https://i.imgur.com/wKq9ym4.png)
 
@@ -55,19 +55,16 @@ project LightBIT...
 Pools...
 --------
 
-[![#](https://i.imgur.com/hxgnbOu.png)](http://hashpex.com/)
+[![#](https://i.imgur.com/hxgnbOu.png)](http://hashpex.com/)[![#](https://i.imgur.com/hxgnbOu.png)](http://hashpex.com/)
 		
 Tricks...
 ---------
 
 checked & set "hugepages"
-
 cat /proc/meminfo | grep Huge 
-
 sudo sysctl -w vm.nr_hugepages=2048
 
 play & set --affinity parameter
-
 https://phempshall.github.io/cpuminer-affinity-setter/
 
 
